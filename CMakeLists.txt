@@ -17,4 +17,8 @@ add_executable(Workspace main.cpp
         Lab/lab4.h
         Lab/lab4.cpp
         Lab/lab4.h
-        main.cpp)
+        main.cpp
+        Course/course4.cpp
+        Course/course4.h
+        Course/course5.cpp
+        Course/course5.h)
