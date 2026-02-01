@@ -20,6 +20,5 @@ int main()
     course5();
 
 
-
     return 0;
 }
